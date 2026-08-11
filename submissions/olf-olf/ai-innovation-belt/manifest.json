@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "32ebe2260956ad849df4b4a452dac5ecf60a47b4c5db497d6ed386781f79de76",
+      "sha256": "1452bee55eaf4de0aabf912d6d85798267dfd5b14215f9e135654e373762276f",
       "purpose": "primary_display"
     },
     {
@@ -51,7 +51,7 @@
       "path": "sources.json",
       "role": "sources",
       "required": true,
-      "sha256": "3a6c7ca64d3bd080ad149d1896ba3ca8ef122d140b530ca07b03edaec4e12e25"
+      "sha256": "e13cf98f551dca6783f3c36da25509f0bdeea7ef21e739c8644971c9d5e0863d"
     },
     {
       "path": "self_check.json",
@@ -218,7 +218,7 @@
     {
       "path": "proposal.en.md",
       "purpose": "bilingual_display",
-      "sha256": "2082abbd0dab604951bc4dd6f199a112268fc4fa3c9f7ead8912965d07115ae3",
+      "sha256": "d90dcf55f9edaec522cdce7192951fbc4de500d7f843654148781d8ecdd72b6a",
       "language": "en",
       "translation_of": "proposal.md"
     },
@@ -290,11 +290,15 @@
     "self_checked": true,
     "readiness_contract": "persisted-self-check-v1",
     "known_blockers": [
-      "Official polygon data needed for final metrics recalculation (provisional boundary)"
+      "Official polygon data needed for final metrics recalculation (provisional boundary)",
+      "All geometry and spatial data are AI-generated conceptual designs based on provisional boundaries, not statutory planning documents",
+      "Logo and brand assets are concept drafts, subject to professional brand team review before official use",
+      "Global case studies and regional collaboration references are background-only information, not binding planning evidence",
+      "AI scenario cards describe conceptual service designs; actual implementation depends on regulatory approval, infrastructure availability, and public consultation"
     ],
     "geometry_quality": "13 land-use zones: 100% seamless coverage, zero overlap, all clipped to site boundary",
     "bilingual": "Complete: proposal.en.md, proposal.en.html, visual/index.en.html, bilingual figures and PDFs",
-    "data_confidence": "medium"
+    "data_confidence": "medium (provisional boundary, AI-generated concept, background-only references)"
   },
   "bilingual_state": "complete"
 }
