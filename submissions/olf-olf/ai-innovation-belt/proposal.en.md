@@ -71,11 +71,25 @@ The proposal organizes space as **"One Belt, Three Cores, Multi-Scenario Nodes, 
 
 **Primary Name**: Jing-Zhang Intelligence Pulse (JZIP)
 
-**Logo Concept**: A fusion of railway track geometry and neural network pathways, using gradient blue-purple color scheme. The "JZ" monogram transforms into a dynamic identity system (static = railway track, flowing = neural pulse).
+**Logo Concept**: A fusion of railway track geometry and neural network pathways, using gradient blue-purple color scheme. The "JZ" monogram transforms into a dynamic identity system (static = railway track, flowing = neural pulse). **An actual logo draft** is available at `assets/brand/jzip-logo.svg` (including a static version and an animated neural-pulse flow along the rail track), serving as a starting point for visual system development, subject to professional brand team approval before official use.
 
 ### Global AI Ecosystem Case Studies
 
 Six reference cases: Silicon Valley (university-originated self-growth), London King's Cross (railway-to-knowledge district), Singapore one-north (government-led cluster), Shenzhen Nanshan (hardware entrepreneurship), Hangzhou Cloud Town (developer community), Seoul DMC (culture-tech fusion). These inform spatial strategies for incubator spaces, shared testing facilities, developer community spaces, and public innovation living rooms.
+
+### Regional Collaboration & Beijing-Tianjin-Hebei Innovation Corridor
+
+Beyond the "three zones, two wings" within the belt, the proposal suggests collaboration interfaces with the following regional innovation nodes [source:AGENT-TASKBOOK]:
+
+| Regional Node | Collaboration Direction | Spatial Interface | Example Scenario |
+|--------------|------------------------|-------------------|------------------|
+| **Beiwei Community** (Shangdi/Xi'erqi) | Enterprise R&D, open-source community | Rail + slow-traffic commuting corridor north along JZ line | Cross-district developer events, codebase collaboration |
+| **Future Science City** (Changping) | AI + big-science facility partnership | N.5th Ring–G6 Express–Beiqing Road corridor | Shared computing resources, joint testing |
+| **Huairou Science City** | Basic research × AI crossover | JZ line–Huairou dedicated transit (rail + shuttle) | Cross-disciplinary forums, scientist–developer dialogue |
+| **Beijing E-Town (Yizhuang)** | Intelligent connected vehicle + AI terminal testing | Rail + expressway corridor | Cross-district autonomous driving testing, AI terminal scenarios |
+| **Jing-Jin-Ji Intelligent Connected Corridor** | Smart logistics, AI governance pilot | JZ–Jingxiong–Jingha highway + rail corridors | Cross-regional AI governance standardization, open scenario data sharing |
+
+The above collaboration interfaces are directional conceptual suggestions and are subject to actual transport conditions, administrative coordination, and industrial base. The proposal only provides a collaboration framework and potential scenario interfaces, and does not constitute confirmed regional cooperation arrangements.
 
 ## 4. Overall Design Area: Urban Renewal at Regulatory Planning Depth
 
@@ -154,6 +168,20 @@ Conceptual FAR direction: Zhongzhiyuan 1.5–2.0, AI Origin 2.0–2.5, Dazhongsi
 | Local Resident | Commuting, leisure, community service | Park slow ring, embedded services, activity zoning | No commercial profiling |
 | University Faculty/Student | Research transfer, cross-campus mobility | Campus-park connection, transformation station, AI education | Campus data requires authorization |
 
+### Inclusive Design & Vulnerable Group Services
+
+Complementing the five main personas, the proposal adds independent service design for vulnerable and low-digital-literacy groups [standard:BARRIER-FREE-ENVIRONMENT-LAW]:
+
+| Group | Core Needs | Non-digital Alternatives | Accessibility Measures |
+|-------|-----------|-------------------------|----------------------|
+| **Elderly** | Safe mobility, clear signage, non-digital service | Paper guides, info desks, large-print signage | Human-staffed terminals at info screens; offline route alternatives for AI navigation |
+| **People with Disabilities** | Barrier-free access, voice/tactile interaction | Barrier-free signage, voice announcements, tactile paths | Multi-modal alternatives (voice, tactile, visual) for all AI scenarios |
+| **Low-digital-literacy** | Simple operation, no smartphone dependency | Info desks, phone service, community volunteers | Non-QR paper/human options at info screens; human review backup for AI services |
+| **Tenants & Service Workers** | Stable housing, employment, daily services | Embedded community services, vocational training | No commercial profiling; aggregated activity data only |
+| **Child Carers** | Safe play space, parent-child facilities | Play areas, nursing rooms, waiting zones | No child data collection; supervised play areas with emergency call buttons |
+
+**Non-digital alternatives & grievance channels**: All AI info screens, navigation, and self-service terminals maintain offline human-staffed alternatives. Accessibility testing metrics (barrier-free access rate, voice/tactile availability) and public grievance channels are established. When any AI service is inaccessible to a vulnerable group, an equivalent-quality human alternative must be provided.
+
 ### AI Scenario Cards (12 cards, 4 industry-testing)
 
 | # | Scenario | Location | Type | Operator |
@@ -227,6 +255,24 @@ Color palette: tech blue, industrial gray, ecological green. Architecture: moder
 ### Global AI Event System
 
 Annual events: Global AI Developer Conference, AI City Experience Week, Open Source Hackathon, International AI Governance Forum, AI Achievement Release Season. Brand IP: "JZIP" unified brand with visual system, mascot, and communication mechanism. **All activities, investment, policy, and operations are conceptual suggestions, not confirmed government arrangements.**
+
+### Long-term Governance, Resources & Performance Baseline
+
+**Governance structure**: A "government guidance + market operation + community co-governance" tripartite model is suggested. Government provides the policy framework and public-space management; operators handle event planning and scenario operations; the developer community participates in governance decisions and content review. A JZIP Brand Committee comprising tripartite representatives, public-interest representatives, and experts governs brand usage authorization, event approval, and public value assurance.
+
+**Resource categories**: Government (public-space maintenance, infrastructure, policy support, basic services); Market (venue rental, brand licensing, data services, enterprise services, event tickets); Community (open-source code, volunteering, content review, community operations).
+
+**Performance baseline (KPI direction)**:
+| Dimension | Indicator | Baseline | Data source |
+|-----------|-----------|----------|-------------|
+| Public value | Event attendance, scenario satisfaction, non-digital substitution rate | 100k attendance in first year | Event registry + anonymous survey |
+| Industrial vitality | Tenant count, financing volume, open-source contributions | 100+ firms in 3 years | Public registry + OSS platform |
+| Community health | Active developers, event diversity, complaint rate | 5,000 annual active | Event registry + community feedback |
+| Inclusivity | Vulnerable-group usability, human substitution rate | Accessibility test ≥95% | Third-party audit + grievance log |
+
+**Exit mechanism**: Each testing scenario (SC-02, SC-05, SC-08) runs a 2-year pilot, then a tripartite review committee decides whether to continue, adjust, or terminate. Criteria include privacy compliance, human-review effectiveness, public value contribution, and financial sustainability. Any scenario may be terminated at any time for safety, privacy, or public-interest reasons without waiting for the review cycle.
+
+**All activities, investment, policy, and operations are conceptual suggestions, not confirmed government arrangements.**
 
 ## 11. Metrics, Recalculation, and Compliance Matrix
 
