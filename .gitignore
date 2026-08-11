@@ -8,3 +8,10 @@ __pycache__/
 docs/reviews/
 data/source_registry.draft.json
 submissions/*/*/exhibit.json
+# Helper scripts
+fix_*.py
+generate_*.py
+analyze_*.py
+remove_*.py
+rebuild_*.py
+regenerate_*.py

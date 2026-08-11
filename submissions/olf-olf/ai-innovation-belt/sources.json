@@ -1,0 +1,262 @@
+{
+  "schema_version": "0.1.0",
+  "accessed_date": "2026-08-10",
+  "sources": [
+    {
+      "id": "SRC-2026-0518-AGENT-OPEN-CALL-TASKBOOK",
+      "title": "面向全球智能体开展百年京张AI创新带城市设计开源征集任务书摘录",
+      "publisher": "User-provided cleared document",
+      "published_date": "2026-05-18",
+      "url": "brief/site-package/agent_taskbook.json",
+      "authority_level": "user_provided_cleared",
+      "usable_for": [
+        "agent-facing task coverage",
+        "scenario cards",
+        "branding",
+        "operation"
+      ],
+      "not_usable_for": [
+        "official redline",
+        "statutory planning control",
+        "confirmed implementation"
+      ]
+    },
+    {
+      "id": "SRC-2026-BJ-GH-QUAL-PREANNOUNCEMENT",
+      "title": "百年京张AI创新带城市设计国际方案征集资格预审公告",
+      "publisher": "北京市规划和自然资源委员会海淀分局",
+      "published_date": "2026-05-09",
+      "url": "https://ghzrzyw.beijing.gov.cn/zhengwuxinxi/tzgg/hd/202605/t20260509_4643047.html",
+      "authority_level": "official_public",
+      "usable_for": [
+        "three-level scope",
+        "key areas",
+        "design tasks",
+        "design depth"
+      ],
+      "not_usable_for": [
+        "exact polygon (not provided)"
+      ]
+    },
+    {
+      "id": "SRC-PROVISIONAL-BOUNDARIES-2026",
+      "title": "临时粗略边界与三处重点区polygon",
+      "publisher": "Repository maintainers",
+      "published_date": "2026-06-05",
+      "url": "brief/site-package/geometry/provisional_boundaries.geojson",
+      "authority_level": "provisional",
+      "usable_for": [
+        "temporary generation",
+        "visualization",
+        "self-check"
+      ],
+      "not_usable_for": [
+        "official redline",
+        "precise area",
+        "statutory control"
+      ]
+    },
+    {
+      "id": "SRC-MNR-LAND-USE-CLASSIFICATION",
+      "title": "国土空间调查、规划、用途管制用地用海分类指南",
+      "publisher": "自然资源部",
+      "published_date": "2023",
+      "url": "brief/site-package/enums/land_use_codes.json",
+      "authority_level": "official_public",
+      "usable_for": [
+        "land use classification"
+      ],
+      "not_usable_for": []
+    },
+    {
+      "id": "SRC-OSM-BACKGROUND-2026",
+      "title": "OpenStreetMap背景核对（京张遗址公园等）",
+      "publisher": "OSM contributors (ODbL)",
+      "published_date": "2026-08-08",
+      "url": "https://github.com/open-city-ai/haidian/issues/846",
+      "authority_level": "background_only",
+      "usable_for": [
+        "rough context",
+        "cross-check"
+      ],
+      "not_usable_for": [
+        "official boundary",
+        "precise area",
+        "statutory control"
+      ]
+    },
+    {
+      "id": "SRC-GLOBAL-SILICON-VALLEY",
+      "title": "硅谷AI创新生态调研（Palo Alto–Mountain View走廊）",
+      "publisher": "Publicly available information, compiled for case study reference",
+      "published_date": "2026",
+      "url": "https://en.wikipedia.org/wiki/Silicon_Valley",
+      "authority_level": "background_only",
+      "usable_for": [
+        "case study reference",
+        "ecosystem comparison"
+      ],
+      "not_usable_for": [
+        "direct spatial translation",
+        "official planning basis"
+      ]
+    },
+    {
+      "id": "SRC-GLOBAL-KINGS-CROSS",
+      "title": "伦敦国王十字区城市更新案例",
+      "publisher": "Publicly available information, compiled for case study reference",
+      "published_date": "2026",
+      "url": "https://www.kingscross.co.uk/",
+      "authority_level": "background_only",
+      "usable_for": [
+        "case study reference",
+        "heritage-rail-to-innovation comparison"
+      ],
+      "not_usable_for": [
+        "direct spatial translation",
+        "financial assumptions"
+      ]
+    },
+    {
+      "id": "SRC-GLOBAL-ONE-NORTH",
+      "title": "新加坡纬壹科技城（one-north）AI/生物医药集群案例",
+      "publisher": "Publicly available information, compiled for case study reference",
+      "published_date": "2026",
+      "url": "https://www.jtc.gov.sg/industrial-land-and-space/Pages/one-north.aspx",
+      "authority_level": "background_only",
+      "usable_for": [
+        "case study reference",
+        "themed-district comparison"
+      ],
+      "not_usable_for": [
+        "direct spatial translation",
+        "governance model assumption"
+      ]
+    },
+    {
+      "id": "SRC-GLOBAL-SHENZHEN-NANSHAN",
+      "title": "深圳南山科技园AI产业生态案例",
+      "publisher": "Publicly available information, compiled for case study reference",
+      "published_date": "2026",
+      "url": "https://en.wikipedia.org/wiki/Nanshan_District,_Shenzhen",
+      "authority_level": "background_only",
+      "usable_for": [
+        "case study reference",
+        "hardware-ecosystem comparison"
+      ],
+      "not_usable_for": [
+        "direct spatial translation",
+        "policy replication"
+      ]
+    },
+    {
+      "id": "SRC-GLOBAL-DREAM-TOWN",
+      "title": "杭州梦想小镇/云栖小镇互联网+数字经济案例",
+      "publisher": "Publicly available information, compiled for case study reference",
+      "published_date": "2026",
+      "url": "https://en.wikipedia.org/wiki/Dream_Town",
+      "authority_level": "background_only",
+      "usable_for": [
+        "case study reference",
+        "developer-community comparison"
+      ],
+      "not_usable_for": [
+        "direct spatial translation"
+      ]
+    },
+    {
+      "id": "SRC-GLOBAL-SEOUL-DMC",
+      "title": "首尔数字媒体城（DMC）文化科技融合案例",
+      "publisher": "Publicly available information, compiled for case study reference",
+      "published_date": "2026",
+      "url": "https://en.wikipedia.org/wiki/Digital_Media_City_(Seoul)",
+      "authority_level": "background_only",
+      "usable_for": [
+        "case study reference",
+        "culture-tech comparison"
+      ],
+      "not_usable_for": [
+        "direct spatial translation"
+      ]
+    },
+    {
+      "id": "SRC-INSTITUTIONS-THU-PKU",
+      "title": "清华大学、北京大学等高校公开信息",
+      "publisher": "Publicly available institutional information",
+      "published_date": "2026",
+      "url": "https://www.tsinghua.edu.cn/ https://www.pku.edu.cn/",
+      "authority_level": "background_only",
+      "usable_for": [
+        "geographic reference",
+        "institutional context"
+      ],
+      "not_usable_for": [
+        "internal planning data",
+        "official cooperation commitment"
+      ]
+    },
+    {
+      "id": "SRC-INSTITUTIONS-ZHONGGUANCUN",
+      "title": "中关村软件园、东升科技园公开信息",
+      "publisher": "Publicly available information",
+      "published_date": "2026",
+      "url": "https://www.zgcsp.com/",
+      "authority_level": "background_only",
+      "usable_for": [
+        "geographic reference",
+        "industry cluster context"
+      ],
+      "not_usable_for": [
+        "internal planning data",
+        "official cooperation commitment"
+      ]
+    },
+    {
+      "id": "SRC-REGIONAL-COLLABORATION",
+      "title": "北纬社区、未来科学城、怀柔科学城、经开区、京津冀协作公开信息",
+      "publisher": "Publicly available information, compiled for regional collaboration reference",
+      "published_date": "2026",
+      "url": "https://www.beijing.gov.cn/",
+      "authority_level": "background_only",
+      "usable_for": [
+        "regional collaboration context",
+        "innovation corridor reference"
+      ],
+      "not_usable_for": [
+        "official cooperation commitment",
+        "transportation planning basis"
+      ]
+    },
+    {
+      "id": "SRC-BARRIER-FREE-LAW",
+      "title": "无障碍环境建设法",
+      "publisher": "全国人大常委会",
+      "published_date": "2023-06-28",
+      "url": "https://flk.npc.gov.cn/",
+      "authority_level": "official_public",
+      "usable_for": [
+        "accessibility standards",
+        "inclusive design basis"
+      ],
+      "not_usable_for": [
+        "specific technical standards (refer to implementation guidelines)"
+      ]
+    },
+    {
+      "id": "SRC-BRAND-JZIP-LOGO",
+      "title": "京张智脉（JZIP）品牌Logo初稿",
+      "publisher": "AI-generated concept brand asset",
+      "published_date": "2026-08-11",
+      "url": "assets/brand/jzip-logo.svg",
+      "authority_level": "user_provided_cleared",
+      "usable_for": [
+        "brand concept reference",
+        "visual system discussion"
+      ],
+      "not_usable_for": [
+        "official brand identity",
+        "trademark registration"
+      ]
+    }
+  ]
+}
